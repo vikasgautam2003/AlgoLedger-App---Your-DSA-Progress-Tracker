@@ -1,0 +1,3139 @@
+[
+  
+  {
+    "id": 2,
+    "title": "Reverse the array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 3,
+    "title": "Find the maximum and minimum element in an array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 4,
+    "title": "Find the \"Kth\" max and min element of an array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 5,
+    "title": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 6,
+    "title": "Move all the negative elements to one side of the array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 7,
+    "title": "Find the Union and Intersection of the two sorted arrays.",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 8,
+    "title": "Write a program to cyclically rotate an array by one.",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 9,
+    "title": "find Largest sum contiguous Subarray [V. IMP]",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 10,
+    "title": "Minimise the maximum difference between heights [V.IMP]",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 11,
+    "title": "Minimum no. of Jumps to reach end of an array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 12,
+    "title": "find duplicate in an array of N+1 Integers",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 13,
+    "title": "Merge 2 sorted arrays without using Extra space.",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 14,
+    "title": "Kadane's Algo [V.V.V.V.V IMP]",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 15,
+    "title": "Merge Intervals",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 16,
+    "title": "Next Permutation",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 17,
+    "title": "Count Inversion",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 18,
+    "title": "Best time to buy and Sell stock",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 19,
+    "title": "find all pairs on integer array whose sum is equal to given number",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 20,
+    "title": "find common elements In 3 sorted arrays",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 21,
+    "title": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 22,
+    "title": "Find if there is any subarray with sum equal to 0",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 23,
+    "title": "Find factorial of a large number",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 24,
+    "title": "find maximum product subarray",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 25,
+    "title": "Find longest coinsecutive subsequence",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 26,
+    "title": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 27,
+    "title": "Maximum profit by buying and selling a share atmost twice",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 28,
+    "title": "Find whether an array is a subset of another array",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 29,
+    "title": "Find the triplet that sum to a given value",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 30,
+    "title": "Trapping Rain water problem",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 31,
+    "title": "Chocolate Distribution problem",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 32,
+    "title": "Smallest Subarray with sum greater than a given value",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 33,
+    "title": "Three way partitioning of an array around a given value",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 34,
+    "title": "Minimum swaps required bring elements less equal K together",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 35,
+    "title": "Minimum no. of operations required to make an array palindrome",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 36,
+    "title": "Median of 2 sorted arrays of equal size",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 37,
+    "title": "Median of 2 sorted arrays of different size",
+    "topic": "Array",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 38,
+    "title": "Spiral traversal on a Matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 39,
+    "title": "Search an element in a matriix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 40,
+    "title": "Find median in a row wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 41,
+    "title": "Find row with maximum no. of 1's",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 42,
+    "title": "Print elements in sorted order using row-column wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 43,
+    "title": "Maximum size rectangle",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 44,
+    "title": "Find a specific pair in matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 45,
+    "title": "Rotate matrix by 90 degrees",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 46,
+    "title": "Kth smallest element in a row-cpumn wise sorted matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 47,
+    "title": "Common elements in all rows of a given matrix",
+    "topic": "Matrix",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 48,
+    "title": "Reverse a String",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 49,
+    "title": "Check whether a String is Palindrome or not",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 50,
+    "title": "Find Duplicate characters in a string",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 51,
+    "title": "Why strings are immutable in Java?",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 52,
+    "title": "Write a Code to check whether one string is a rotation of another",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 53,
+    "title": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 54,
+    "title": "Count and Say problem",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 55,
+    "title": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 56,
+    "title": "Find Longest Recurring Subsequence in String",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 57,
+    "title": "Print all Subsequences of a string.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 58,
+    "title": "Print all the permutations of the given string",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 59,
+    "title": "Split the Binary string into two substring with equal 0\u2019s and 1\u2019s",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 60,
+    "title": "Word Wrap Problem [VERY IMP].",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 61,
+    "title": "EDIT Distance [Very Imp]",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 62,
+    "title": "Find next greater number with same set of digits. [Very Very IMP]",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 63,
+    "title": "Balanced Parenthesis problem.[Imp]",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 64,
+    "title": "Word break Problem[ Very Imp]",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 65,
+    "title": "Rabin Karp Algo",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 66,
+    "title": "KMP Algo",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 67,
+    "title": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 68,
+    "title": "Minimum number of bracket reversals needed to make an expression balanced.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 69,
+    "title": "Count All Palindromic Subsequence in a given String.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 70,
+    "title": "Count of number of given string in 2D character array",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 71,
+    "title": "Search a Word in a 2D Grid of characters.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 72,
+    "title": "Boyer Moore Algorithm for Pattern Searching.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 73,
+    "title": "Converting Roman Numerals to Decimal",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 74,
+    "title": "Longest Common Prefix",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 75,
+    "title": "Number of flips to make binary string alternate",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 76,
+    "title": "Find the first repeated word in string.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 77,
+    "title": "Minimum number of swaps for bracket balancing.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 78,
+    "title": "Find the longest common subsequence between two strings.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 79,
+    "title": "Program to generate all possible valid IP addresses from given  string.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 80,
+    "title": "Write a program tofind the smallest window that contains all characters of string itself.",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 81,
+    "title": "Rearrange characters in a string such that no two adjacent are same",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 82,
+    "title": "Minimum characters to be added at front to make string palindrome",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 83,
+    "title": "Given a sequence of words, print all anagrams together",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 84,
+    "title": "Find the smallest window in a string containing all characters of another string",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 85,
+    "title": "Recursively remove all adjacent duplicates",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 86,
+    "title": "String matching where one string contains wildcard characters",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 87,
+    "title": "Function to find Number of customers who could not get a computer",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 88,
+    "title": "Transform One String to Another using Minimum Number of Given Operation",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 89,
+    "title": "Check if two given strings are isomorphic to each other",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 90,
+    "title": "Recursively print all sentences that can be formed from list of word lists",
+    "topic": "String",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 91,
+    "title": "Find first and last positions of an element in a sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 92,
+    "title": "Find a Fixed Point (Value equal to index) in a given array",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 93,
+    "title": "Search in a rotated sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 94,
+    "title": "square root of an integer",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 95,
+    "title": "Maximum and minimum of an array using minimum number of comparisons",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 96,
+    "title": "Optimum location of point to minimize total distance",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 97,
+    "title": "Find the repeating and the missing",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 98,
+    "title": "find majority element",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 99,
+    "title": "Searching in an array where adjacent differ by at most k",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 100,
+    "title": "find a pair with a given difference",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 101,
+    "title": "find four elements that sum to a given value",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 102,
+    "title": "maximum sum such that no 2 elements are adjacent",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 103,
+    "title": "Count triplet with sum smaller than a given value",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 104,
+    "title": "merge 2 sorted arrays",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 105,
+    "title": "print all subarrays with 0 sum",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 106,
+    "title": "Product array Puzzle",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 107,
+    "title": "Sort array according to count of set bits",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 108,
+    "title": "minimum no. of swaps required to sort the array",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 109,
+    "title": "Bishu and Soldiers",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 110,
+    "title": "Rasta and Kheshtak",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 111,
+    "title": "Kth smallest number again",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 112,
+    "title": "Find pivot element in a sorted array",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 113,
+    "title": "K-th Element of Two Sorted Arrays",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 114,
+    "title": "Aggressive cows",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 115,
+    "title": "Book Allocation Problem",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 116,
+    "title": "EKOSPOJ:",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 117,
+    "title": "Job Scheduling Algo",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 118,
+    "title": "Missing Number in AP",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 119,
+    "title": "Smallest number with atleastn trailing zeroes infactorial",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 120,
+    "title": "Painters Partition Problem:",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 121,
+    "title": "ROTI-Prata SPOJ",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 122,
+    "title": "DoubleHelix SPOJ",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 123,
+    "title": "Subset Sums",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 124,
+    "title": "Findthe inversion count",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 125,
+    "title": "Implement Merge-sort in-place",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 126,
+    "title": "Partitioning and Sorting Arrays with Many Repeated Entries",
+    "topic": "Searching & Sorting",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 127,
+    "title": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 128,
+    "title": "Reverse a Linked List in group of Given Size. [Very Imp]",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 129,
+    "title": "Write a program to Detect loop in a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 130,
+    "title": "Write a program to Delete loop in a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 131,
+    "title": "Find the starting point of the loop.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 132,
+    "title": "Remove Duplicates in a sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 133,
+    "title": "Remove Duplicates in a Un-sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 134,
+    "title": "Write a Program to Move the last element to Front in a Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 135,
+    "title": "Add \u201c1\u201d to a number represented as a Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 136,
+    "title": "Add two numbers represented by linked lists.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 137,
+    "title": "Intersection of two Sorted Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 138,
+    "title": "Intersection Point of two Linked Lists.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 139,
+    "title": "Merge Sort For Linked lists.[Very Important]",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 140,
+    "title": "Quicksort for Linked Lists.[Very Important]",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 141,
+    "title": "Find the middle Element of a linked list.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 142,
+    "title": "Check if a linked list is a circular linked list.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 143,
+    "title": "Split a Circular linked list into two halves.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 144,
+    "title": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 145,
+    "title": "Deletion from a Circular Linked List.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 146,
+    "title": "Reverse a Doubly Linked list.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 147,
+    "title": "Find pairs with a given sum in a DLL.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 148,
+    "title": "Count triplets in a sorted DLL whose sum is equal to given value \u201cX\u201d.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 149,
+    "title": "Sort a \u201ck\u201dsorted Doubly Linked list.[Very IMP]",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 150,
+    "title": "Rotate DoublyLinked list by N nodes.",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 151,
+    "title": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 152,
+    "title": "Can we reverse a linked list in less than O(n) ?",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 153,
+    "title": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 154,
+    "title": "Flatten a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 155,
+    "title": "Sort a LL of 0's, 1's and 2's",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 156,
+    "title": "Clone a linked list with next and random pointer",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 157,
+    "title": "Merge K sorted Linked list",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 158,
+    "title": "Multiply 2 no. represented by LL",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 159,
+    "title": "Delete nodes which have a greater value on right side",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 160,
+    "title": "Segregate even and odd nodes in a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 161,
+    "title": "Program for n\u2019th node from the end of a Linked List",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 162,
+    "title": "Find the first non-repeating character from a stream of characters",
+    "topic": "LinkedList",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 163,
+    "title": "level order traversal",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 164,
+    "title": "Reverse Level Order traversal",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 165,
+    "title": "Height of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 166,
+    "title": "Diameter of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 167,
+    "title": "Mirror of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 168,
+    "title": "Inorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 169,
+    "title": "Preorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 170,
+    "title": "Postorder Traversal of a tree both using recursion and Iteration",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 171,
+    "title": "Left View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 172,
+    "title": "Right View of Tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 173,
+    "title": "Top View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 174,
+    "title": "Bottom View of a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 175,
+    "title": "Zig-Zag traversal of a binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 176,
+    "title": "Check if a tree is balanced or not",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 177,
+    "title": "Diagnol Traversal of a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 178,
+    "title": "Boundary traversal of a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 179,
+    "title": "Construct Binary Tree from String with Bracket Representation",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 180,
+    "title": "Convert Binary tree into Doubly Linked List",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 181,
+    "title": "Convert Binary tree into Sum tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 182,
+    "title": "Construct Binary tree from Inorder and preorder traversal",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 183,
+    "title": "Find minimum swaps required to convert a Binary tree into BST",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 184,
+    "title": "Check if Binary tree is Sum tree or not",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 185,
+    "title": "Check if all leaf nodes are at same level or not",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 186,
+    "title": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 187,
+    "title": "Check if 2 trees are mirror or not",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 188,
+    "title": "Sum of Nodes on the Longest path from root to leaf node",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 189,
+    "title": "Check if given graph is tree or not.  [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 190,
+    "title": "Find Largest subtree sum in a tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 191,
+    "title": "Maximum Sum of nodes in Binary tree such that no two are adjacent",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 192,
+    "title": "Print all \"K\" Sum paths in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 193,
+    "title": "Find LCA in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 194,
+    "title": "Find distance between 2 nodes in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 195,
+    "title": "Kth Ancestor of node in a Binary tree",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 196,
+    "title": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 197,
+    "title": "Tree Isomorphism Problem",
+    "topic": "Binary Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 198,
+    "title": "Fina a value in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 199,
+    "title": "Deletion of a node in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 200,
+    "title": "Find min and max value in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 201,
+    "title": "Find inorder successor and inorder predecessor in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 202,
+    "title": "Check if a tree is a BST or not",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 203,
+    "title": "Populate Inorder successor of all nodes",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 204,
+    "title": "Find LCA  of 2 nodes in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 205,
+    "title": "Construct BST from preorder traversal",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 206,
+    "title": "Convert Binary tree into BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 207,
+    "title": "Convert a normal BST into a Balanced BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 208,
+    "title": "Merge two BST [ V.V.V>IMP ]",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 209,
+    "title": "Find Kth largest element in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 210,
+    "title": "Find Kth smallest element in a BST",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 211,
+    "title": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 212,
+    "title": "Find the median of BST in O(n) time and O(1) space",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 213,
+    "title": "Count BST ndoes that lie in a given range",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 214,
+    "title": "Replace every element with the least greater element on its right",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 215,
+    "title": "Given \"n\" appointments, find the conflicting appointments",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 216,
+    "title": "Check preorder is valid or not",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 217,
+    "title": "Check whether BST contains Dead end",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 218,
+    "title": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 219,
+    "title": "Flatten BST to sorted list",
+    "topic": "Binary Search Trees",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 220,
+    "title": "Activity Selection Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 221,
+    "title": "Job SequencingProblem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 222,
+    "title": "Huffman Coding",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 223,
+    "title": "Water Connection Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 224,
+    "title": "Fractional Knapsack Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 225,
+    "title": "Greedy Algorithm to find Minimum number of Coins",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 226,
+    "title": "Maximum trains for which stoppage can be provided",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 227,
+    "title": "Minimum Platforms Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 228,
+    "title": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 229,
+    "title": "Find the minimum and maximum amount to buy all N candies",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 230,
+    "title": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 231,
+    "title": "Minimum Cost to cut a board into squares",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 232,
+    "title": "Check if it is possible to survive on Island",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 233,
+    "title": "Find maximum meetings in one room",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 234,
+    "title": "Maximum product subset of an array",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 235,
+    "title": "Maximize array sum after K negations",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 236,
+    "title": "Maximize the sum of arr[i]*i",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 237,
+    "title": "Maximum sum of absolute difference of an array",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 238,
+    "title": "Maximize sum of consecutive differences in a circular array",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 239,
+    "title": "Minimum sum of absolute difference of pairs of two arrays",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 240,
+    "title": "Program for Shortest Job First (or SJF) CPU Scheduling",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 241,
+    "title": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 242,
+    "title": "Smallest subset with sum greater than all other elements",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 243,
+    "title": "Chocolate Distribution Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 244,
+    "title": "DEFKIN -Defense of a Kingdom",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 245,
+    "title": "DIEHARD -DIE HARD",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 246,
+    "title": "GERGOVIA -Wine trading in Gergovia",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 247,
+    "title": "Picking Up Chicks",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 248,
+    "title": "CHOCOLA \u2013Chocolate",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 249,
+    "title": "ARRANGE -Arranging Amplifiers",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 250,
+    "title": "K Centers Problem",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 251,
+    "title": "Minimum Cost of ropes",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 252,
+    "title": "Find smallest number with given number of digits and sum of digits",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 253,
+    "title": "Rearrange characters in a string such that no two adjacent are same",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 254,
+    "title": "Find maximum sum possible equal sum of three stacks",
+    "topic": "Greedy",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 255,
+    "title": "Rat in a maze Problem",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 256,
+    "title": "Printing all solutions in N-Queen Problem",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 257,
+    "title": "Word Break Problem using Backtracking",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 258,
+    "title": "Remove Invalid Parentheses",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 259,
+    "title": "Sudoku Solver",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 260,
+    "title": "m Coloring Problem",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 261,
+    "title": "Print all palindromic partitions of a string",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 262,
+    "title": "Subset Sum Problem",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 263,
+    "title": "The Knight\u2019s tour problem",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 264,
+    "title": "Tug of War",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 265,
+    "title": "Find shortest safe route in a path with landmines",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 266,
+    "title": "Combinational Sum",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 267,
+    "title": "Find Maximum number possible by doing at-most K swaps",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 268,
+    "title": "Print all permutations of a string",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 269,
+    "title": "Find if there is a path of more than k length from a source",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 270,
+    "title": "Longest Possible Route in a Matrix with Hurdles",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 271,
+    "title": "Print all possible paths from top left to bottom right of a mXn matrix",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 272,
+    "title": "Partition of a set intoK subsets with equal sum",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 273,
+    "title": "Find the K-th Permutation Sequence of first N natural numbers",
+    "topic": "BackTracking",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 274,
+    "title": "Implement Stack from Scratch",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 275,
+    "title": "Implement Queue from Scratch",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 276,
+    "title": "Implement 2 stack in an array",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 277,
+    "title": "find the middle element of a stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 278,
+    "title": "Implement \"N\" stacks in an Array",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 279,
+    "title": "Check the expression has valid or Balanced parenthesis or not.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 280,
+    "title": "Reverse a String using Stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 281,
+    "title": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 282,
+    "title": "Find the next Greater element",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 283,
+    "title": "The celebrity Problem",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 284,
+    "title": "Arithmetic Expression evaluation",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 285,
+    "title": "Evaluation of Postfix expression",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 286,
+    "title": "Implement a method to insert an element at its bottom without using any other data structure.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 287,
+    "title": "Reverse a stack using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 288,
+    "title": "Sort a Stack using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 289,
+    "title": "Merge Overlapping Intervals",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 290,
+    "title": "Largest rectangular Area in Histogram",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 291,
+    "title": "Length of the Longest Valid Substring",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 292,
+    "title": "Expression contains redundant bracket or not",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 293,
+    "title": "Implement Stack using Queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 294,
+    "title": "Implement Stack using Deque",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 295,
+    "title": "Stack Permutations (Check if an array is stack permutation of other)",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 296,
+    "title": "Implement Queue using Stack",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 297,
+    "title": "Implement \"n\" queue in an array",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 298,
+    "title": "Implement a Circular queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 299,
+    "title": "LRU Cache Implementationa",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 300,
+    "title": "Reverse a Queue using recursion",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 301,
+    "title": "Reverse the first \u201cK\u201d elements of a queue",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 302,
+    "title": "Interleave the first half of the queue with second half",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 303,
+    "title": "Find the first circular tour that visits all Petrol Pumps",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 304,
+    "title": "Minimum time required to rot all oranges",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 305,
+    "title": "Distance of nearest cell having 1 in a binary matrix",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 306,
+    "title": "First negative integer in every window of size \u201ck\u201d",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 307,
+    "title": "Check if all levels of two trees are anagrams or not.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 308,
+    "title": "Sum of minimum and maximum elements of all subarrays of size \u201ck\u201d.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 309,
+    "title": "Minimum sum of squares of character counts in a given string after removing \u201ck\u201d characters.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 310,
+    "title": "Queue based approach or first non-repeating character in a stream.",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 311,
+    "title": "Next Smaller Element",
+    "topic": "Stacks & Queues",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 312,
+    "title": "Implement a Maxheap/MinHeap using arrays and recursion.",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 313,
+    "title": "Sort an Array using heap. (HeapSort)",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 314,
+    "title": "Maximum of all subarrays of size k.",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 315,
+    "title": "\u201ck\u201d largest element in an array",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 316,
+    "title": "Kth smallest and largest element in an unsorted array",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 317,
+    "title": "Merge \u201cK\u201d sorted arrays. [ IMP ]",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 318,
+    "title": "Merge 2 Binary Max Heaps",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 319,
+    "title": "Kth largest sum continuous subarrays",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 320,
+    "title": "Leetcode- reorganize strings",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 321,
+    "title": "Merge \u201cK\u201d Sorted Linked Lists [V.IMP]",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 322,
+    "title": "Smallest range in \u201cK\u201d Lists",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 323,
+    "title": "Median in a stream of Integers",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 324,
+    "title": "Check if a Binary Tree is Heap",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 325,
+    "title": "Connect \u201cn\u201d ropes with minimum cost",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 326,
+    "title": "Convert BST to Min Heap",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 327,
+    "title": "Convert min heap to max heap",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 328,
+    "title": "Rearrange characters in a string such that no two adjacent are same.",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 329,
+    "title": "Minimum sum of two numbers formed from digits of an array",
+    "topic": "Heap",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 330,
+    "title": "Create a Graph, print it",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 331,
+    "title": "Implement BFS algorithm",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 332,
+    "title": "Implement DFS Algo",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 333,
+    "title": "Detect Cycle in Directed Graph using BFS/DFS Algo",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 334,
+    "title": "Detect Cycle in UnDirected Graph using BFS/DFS Algo",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 335,
+    "title": "Search in a Maze",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 336,
+    "title": "Minimum Step by Knight",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 337,
+    "title": "flood fill algo",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 338,
+    "title": "Clone a graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 339,
+    "title": "Making wired Connections",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 340,
+    "title": "word Ladder",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 341,
+    "title": "Dijkstra algo",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 342,
+    "title": "Implement Topological Sort",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 343,
+    "title": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 344,
+    "title": "Find whether it is possible to finish all tasks or not from given dependencies",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 345,
+    "title": "Find the no. of Isalnds",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 346,
+    "title": "Given a sorted Dictionary of an Alien Language, find order of characters",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 347,
+    "title": "Implement Kruksal\u2019sAlgorithm",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 348,
+    "title": "Implement Prim\u2019s Algorithm",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 349,
+    "title": "Total no. of Spanning tree in a graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 350,
+    "title": "Implement Bellman Ford Algorithm",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 351,
+    "title": "Implement Floyd warshallAlgorithm",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 352,
+    "title": "Travelling Salesman Problem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 353,
+    "title": "Graph ColouringProblem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 354,
+    "title": "Snake and Ladders Problem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 355,
+    "title": "Find bridge in a graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 356,
+    "title": "Count Strongly connected Components(Kosaraju Algo)",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 357,
+    "title": "Check whether a graph is Bipartite or Not",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 358,
+    "title": "Detect Negative cycle in a graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 359,
+    "title": "Longest path in a Directed Acyclic Graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 360,
+    "title": "Journey to the Moon",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 361,
+    "title": "Cheapest Flights Within K Stops",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 362,
+    "title": "Oliver and the Game",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 363,
+    "title": "Water Jug problem using BFS",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 364,
+    "title": "Water Jug problem using BFS",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 365,
+    "title": "Find if there is a path of more thank length from a source",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 366,
+    "title": "M-ColouringProblem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 367,
+    "title": "Minimum edges to reverse o make path from source to destination",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 368,
+    "title": "Paths to travel each nodes using each edge(Seven Bridges)",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 369,
+    "title": "Vertex Cover Problem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 370,
+    "title": "Chinese Postman or Route Inspection",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 371,
+    "title": "Number of Triangles in a Directed and Undirected Graph",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 372,
+    "title": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 373,
+    "title": "Two Clique Problem",
+    "topic": "Graph",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 374,
+    "title": "Construct a trie from scratch",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 375,
+    "title": "Find shortest unique prefix for every word in a given list",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 376,
+    "title": "Word Break Problem | (Trie solution)",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 377,
+    "title": "Given a sequence of words, print all anagrams together",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 378,
+    "title": "Implement a Phone Directory",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 379,
+    "title": "Print unique rows in a given boolean matrix",
+    "topic": "Trie",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 380,
+    "title": "Coin ChangeProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 381,
+    "title": "Knapsack Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 382,
+    "title": "Binomial CoefficientProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 383,
+    "title": "Permutation CoefficientProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 384,
+    "title": "Program for nth Catalan Number",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 385,
+    "title": "Matrix Chain Multiplication",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 386,
+    "title": "Edit Distance",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 387,
+    "title": "Subset Sum Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 388,
+    "title": "Friends Pairing Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 389,
+    "title": "Gold Mine Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 390,
+    "title": "Assembly Line SchedulingProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 391,
+    "title": "Painting the Fenceproblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 392,
+    "title": "Maximize The Cut Segments",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 393,
+    "title": "Longest Common Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 394,
+    "title": "Longest Repeated Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 395,
+    "title": "Longest Increasing Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 396,
+    "title": "Space Optimized Solution of LCS",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 397,
+    "title": "LCS (Longest Common Subsequence) of three strings",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 398,
+    "title": "Maximum Sum Increasing Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 399,
+    "title": "Count all subsequences having product less than K",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 400,
+    "title": "Longest subsequence such that difference between adjacent is one",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 401,
+    "title": "Maximum subsequence sum such that no three are consecutive",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 402,
+    "title": "Egg Dropping Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 403,
+    "title": "Maximum Length Chain of Pairs",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 404,
+    "title": "Maximum size square sub-matrix with all 1s",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 405,
+    "title": "Maximum sum of pairs with specific difference",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 406,
+    "title": "Min Cost PathProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 407,
+    "title": "Maximum difference of zeros and ones in binary string",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 408,
+    "title": "Minimum number of jumps to reach end",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 409,
+    "title": "Minimum cost to fill given weight in a bag",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 410,
+    "title": "Minimum removals from array to make max \u2013min <= K",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 411,
+    "title": "Longest Common Substring",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 412,
+    "title": "Count number of ways to reacha given score in a game",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 413,
+    "title": "Count Balanced Binary Trees of Height h",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 414,
+    "title": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 415,
+    "title": "Smallest sum contiguous subarray",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 416,
+    "title": "Unbounded Knapsack (Repetition of items allowed)",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 417,
+    "title": "Word Break Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 418,
+    "title": "Largest Independent Set Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 419,
+    "title": "Partition problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 420,
+    "title": "Longest Palindromic Subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 421,
+    "title": "Count All Palindromic Subsequence in a given String",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 422,
+    "title": "Longest Palindromic Substring",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 423,
+    "title": "Longest alternating subsequence",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 424,
+    "title": "Weighted Job Scheduling",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 425,
+    "title": "Coin game winner where every player has three choices",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 426,
+    "title": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 427,
+    "title": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 428,
+    "title": "Optimal Strategy for a Game",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 429,
+    "title": "Optimal Binary Search Tree",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 430,
+    "title": "Palindrome PartitioningProblem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 431,
+    "title": "Word Wrap Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 432,
+    "title": "Mobile Numeric Keypad Problem [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 433,
+    "title": "Boolean Parenthesization Problem",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 434,
+    "title": "Largest rectangular sub-matrix whose sum is 0",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 435,
+    "title": "Largest area rectangular sub-matrix with equal number of 1\u2019s and 0\u2019s [ IMP ]",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 436,
+    "title": "Maximum sum rectangle in a 2D matrix",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 437,
+    "title": "Maximum profit by buying and selling a share at most k times",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 438,
+    "title": "Find if a string is interleaved of two other strings",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 439,
+    "title": "Maximum Length of Pair Chain",
+    "topic": "Dynamic Programming",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 440,
+    "title": "Count set bits in an integer",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 441,
+    "title": "Find the two non-repeating elements in an array of repeating elements",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 442,
+    "title": "Count number of bits to be flipped to convert A to B",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 443,
+    "title": "Count total set bits in all numbers from 1 to n",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 444,
+    "title": "Program to find whether a no is power of two",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 445,
+    "title": "Find position of the only set bit",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 446,
+    "title": "Copy set bits in a range",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 447,
+    "title": "Divide two integers without using multiplication, division and mod operator",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 448,
+    "title": "Calculate square of a number without using *, / and pow()",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  },
+  {
+    "id": 449,
+    "title": "Power Set",
+    "topic": "Bit Manipulation",
+    "difficulty": "Medium",
+    "status": "NOT_DONE"
+  }
+]
