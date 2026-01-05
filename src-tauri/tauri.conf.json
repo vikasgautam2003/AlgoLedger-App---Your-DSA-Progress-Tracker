@@ -1,11 +1,11 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "AlgoLedger",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "identifier": "com.algoleger.app",
 
   "build": {
-    "frontendDist": "../.next",
+    "frontendDist": "../out",
     "devUrl": "http://localhost:3000",
     "beforeDevCommand": "npm run dev",
     "beforeBuildCommand": "npm run build"
@@ -21,7 +21,12 @@
         "fullscreen": false
       }
     ]
+
+  
   },
+
+
+  
 
 
 
